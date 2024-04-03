@@ -6,4 +6,4 @@ a=int(input("digite a altura:"))
 A=(B+b)/2*a
 area=A**2
 
-print("a area do trapézio é {}".format(area))
+print(" A area do trapézio é {}".format(area))
