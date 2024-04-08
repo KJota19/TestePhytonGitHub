@@ -1,6 +1,6 @@
 #Seno, Cosseno, Tangente
-import math
 
+import math
 angulo=float(input("digite um angulo:"))
 
 seno=math.sin(angulo)
