@@ -1,4 +1,5 @@
 #Dados cadastro
+
 nome=input("digite seu nome :")
 altura=float(input("digite sua altura :"))
 idade=int(input("digite sua idade :"))
