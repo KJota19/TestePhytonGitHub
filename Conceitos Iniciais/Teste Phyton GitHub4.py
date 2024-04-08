@@ -1,4 +1,5 @@
 #Média dos alunos
+
 print("MÉDIA")
 aluno=input("nome:")
 nota1=float(input("nota1:"))
