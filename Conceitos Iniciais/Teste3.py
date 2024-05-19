@@ -1,4 +1,4 @@
-#Area De Um Trapézio
+#AREA DE UM TRPÉZIO
 
 b=int(input("digite a base menor:"))
 B=int(input("digite a base maior:"))

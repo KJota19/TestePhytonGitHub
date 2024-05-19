@@ -1,3 +1,5 @@
+#SORTEIO
+
 import random
 
 sorteio=[0,1,2,3,4,5]

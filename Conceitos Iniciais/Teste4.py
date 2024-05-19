@@ -1,4 +1,4 @@
-#Média Dos Alunos
+#MÉDIA DE ALUNOS
 
 print("MÉDIA")
 aluno=input("nome:")

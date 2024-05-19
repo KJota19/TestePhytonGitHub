@@ -1,4 +1,4 @@
-#Conversor De R$ Para $
+#CONVERSOR DE R$ PARA $ 
 
 dinheiro=float(input("digite quanto de dinheiro você tem: "))
 dolar=dinheiro/4.98

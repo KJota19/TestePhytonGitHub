@@ -1,4 +1,4 @@
-#Cateto oposto E Cateto Adjacente
+#CATETO OPOSTO E CATETO ADJACENTE
 
 import math
 

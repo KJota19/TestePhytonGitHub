@@ -1,4 +1,4 @@
-#Dados cadastro
+#DADOS CADASTRAIS
 
 nome=input("digite seu nome :")
 altura=float(input("digite sua altura :"))

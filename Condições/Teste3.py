@@ -1,3 +1,5 @@
+#MULTA
+
 KMh=int(input("Digite a velocidade do carro: "))
 
 if KMh > 80:

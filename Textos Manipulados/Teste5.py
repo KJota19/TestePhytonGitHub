@@ -1,4 +1,4 @@
-#Manipulação De Frase
+#MANIPULAÇÃO DE FRASE
 
 frase=input("escreva uma frase:")
 

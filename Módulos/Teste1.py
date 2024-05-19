@@ -1,4 +1,4 @@
-#Seno, Cosseno, Tangente
+#SENO, COSSENO, TANGENTE
 
 import math
 angulo=float(input("digite um angulo:"))

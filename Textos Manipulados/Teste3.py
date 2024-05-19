@@ -1,4 +1,4 @@
-#Nome de Cidade Manipulado
+#NOME DE CIDADE MANIPULADO
 
 cidade=input("digite o nome de uma cidade:")
 cidade=cidade.split()

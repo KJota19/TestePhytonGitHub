@@ -1,4 +1,4 @@
-#Parte Inteira
+#PPARTE INTEIRA
 import math 
 
 num=float(input("digite um número: "))

@@ -1,4 +1,4 @@
-#Manipulação De Números
+#MANIPULAÇÃO DE NÚMEROS
 
 numero=int(input("digite um número de 0 até 9999:"))
 

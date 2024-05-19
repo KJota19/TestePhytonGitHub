@@ -1,4 +1,4 @@
-#Música
+#MÚSICA
 import pygame
 
 pygame.init()
