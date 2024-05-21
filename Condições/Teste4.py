@@ -1,4 +1,4 @@
-#PAR OU IMPAR
+ #PAR OU IMPAR
 
 numero=int(input("Digite um número:"))
 
